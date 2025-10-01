@@ -17,7 +17,7 @@
   "songPreviewFilename" : "Any_Man_Of_Mine.wav",
   "coverImageFilename" : "cover.png",
   "environmentNames" : [
-    "DefaultEnvironment"
+    "CrabRaveEnvironment"
   ],
   "colorSchemes" : [
   ],
