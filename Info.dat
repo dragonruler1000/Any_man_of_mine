@@ -9,7 +9,7 @@
     "songFilename" : "Any_Man_Of_Mine.wav",
     "songDuration" : 246.805,
     "audioDataFilename" : "AudioData.dat",
-    "bpm" : 78,
+    "bpm" : 88,
     "lufs" : 0,
     "previewStartTime" : 12,
     "previewDuration" : 20
@@ -45,7 +45,7 @@
     "editors" : {
       "lastEditedBy" : "ChroMapper",
       "ChroMapper" : {
-        "version" : "0.12.874"
+        "version" : "0.13.892"
       }
     }
   }
